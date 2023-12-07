@@ -4,6 +4,14 @@ www.dio.me
 ## Desafio de projeto
 Para este desafio, você precisará usar seus conhecimentos adquiridos no módulo de fundamentos, da trilha .NET da DIO.
 
+## Índice
+1. [Titúlo](#dio---trilha-net---fundamentos)
+2. [Desafio de projeto](#desafio-de-projeto)
+3. [Índice](#índice)
+3. [Contexto](#contexto)
+4. [Proposta](#proposta)
+5. [Solução](#solução)
+
 ## Contexto
 Você foi contratado para construir um sistema para um estacionamento, que será usado para gerenciar os veículos estacionados e realizar suas operações, como por exemplo adicionar um veículo, remover um veículo (e exibir o valor cobrado durante o período) e listar os veículos.
 
@@ -35,4 +43,7 @@ Por último, deverá ser feito um menu interativo com as seguintes ações imple
 
 
 ## Solução
-O código está pela metade, e você deverá dar continuidade obedecendo as regras descritas acima, para que no final, tenhamos um programa funcional. Procure pela palavra comentada "TODO" no código, em seguida, implemente conforme as regras acima.
+- Status do Desafio: ✅ Concluido ✅
+  - As parte com //TODO... foram feitas, todos os metodos estão terminados e testados!
+  - Adicionei uma verificação da placa do carro, ela deve seguir o padrão ``ABC1D23``.
+
